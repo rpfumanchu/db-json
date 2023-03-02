@@ -5,7 +5,7 @@
       "state": true,
       "price": 659,
       "tags": "lifestyle",
-      "img": "play.jpg"
+      "img": "https://play.jpg"
     },
     {
       "name": "xbox",
